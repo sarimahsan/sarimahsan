@@ -1,5 +1,10 @@
-# 💫 About Me:
-🤝 Excited to collaborate on innovative Machine Learning projects<br>👯‍♂️Collaborate in Data Analysis Projects<br>🚀 Currently diving into the world of ML, Computer Vision, and Data Science<br>📫 Get in touch: sarim.ahsan101@gmail.com
+#  About Me:
+🤖 Passionate about turning data into stories and models into solutions<br>
+📊 Exploring the intersection of Data Science, Machine Learning & Computer Vision<br>
+🔍 Love working on real-world problems — from predictive analytics to intelligent systems<br>
+💡 Always up for a brainy collaboration on cutting-edge tech and research projects<br>
+🌱 Currently sharpening skills in Deep Learning, NLP, and AI-driven applications<br>
+📬 Let’s connect and build something amazing: sarim.ahsan101@gmail.com<br>
 
 
 ## 🌐 Socials:
