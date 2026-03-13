@@ -39,7 +39,7 @@ class SarimAhsan:
     contact    = "sarim.ahsan101@gmail.com"
 
     currently  = [
-        "📌  Final-year FYP → Unified Adaptive RAG Framework (targeting ACL / EMNLP)",
+        "🤖  RAG → Unified Adaptive RAG Framework (targeting ACL / EMNLP)",
         "🧠  Deep-diving into Transformer Architectures & Agentic AI Systems",
         "🏋️   DSA grind — 170+ LeetCode problems solved",
         "🌍  Preparing for a Master's in AI / ML in Germany",
@@ -70,7 +70,7 @@ class SarimAhsan:
 | 💻 &nbsp; LeetCode | **170+ problems** solved |
 | 🏆 &nbsp; Certifications | DataCamp Associate Data Scientist · Stanford ML Specialization (DeepLearning.AI) |
 | 🤗 &nbsp; HuggingFace | Fine-tuned & published transformer models to the Hub |
-| 🏢 &nbsp; Experience | IT Intern — **IFFCO Pakistan** (Global Fortune-500 company) |
+| 🏢 &nbsp; Experience | IT Intern — **IFFCO Pakistan** |
 | ⚔️ &nbsp; Competitions | Meta Hacker Cup · Kaggle ML Competitions |
 
 </div>
