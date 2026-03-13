@@ -67,7 +67,6 @@ class SarimAhsan:
 
 | Metric | Value |
 |:---|:---|
-| 🎓 &nbsp; GPA | **3.73 / 4.0** — B.E. Computer Engineering, SSUET |
 | 💻 &nbsp; LeetCode | **170+ problems** solved |
 | 🏆 &nbsp; Certifications | DataCamp Associate Data Scientist · Stanford ML Specialization (DeepLearning.AI) |
 | 🤗 &nbsp; HuggingFace | Fine-tuned & published transformer models to the Hub |
@@ -168,16 +167,11 @@ class SarimAhsan:
 ## `> ./stats.sh`
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sarimahsan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=020609&title_color=00d2ff&icon_color=00ffaa&text_color=7aa8c4&ring_color=00d2ff"/>
-&nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimahsan&hide_border=true&layout=compact&bg_color=020609&title_color=00d2ff&text_color=7aa8c4&langs_count=8"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=sarimahsan&hide_border=true&background=020609&ring=00d2ff&fire=00ffaa&currStreakLabel=00d2ff&sideLabels=7aa8c4&dates=3d5870&sideNums=00ffaa&currStreakNum=ffffff"/>
 
 </div>
 
