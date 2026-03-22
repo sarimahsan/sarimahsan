@@ -18,9 +18,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sarimahsan&color=00d2ff&style=flat-square&label=Profile+Views)&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/sarimahsan?style=flat-square&color=00ffaa&labelColor=0d1117&label=Followers)
-
 </div>
 
 ---
