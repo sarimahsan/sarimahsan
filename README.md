@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+Building+intelligent+systems+that+actually+work;%E2%96%B6+RAG+Systems+%7C+LLMs+%7C+Agentic+AI+%7C+Deep+Learning;%E2%96%B6+Targeting+MS+in+AI+%2F+ML+%E2%80%94+Germany+%F0%9F%87%A9%F0%9F%87%AA;%E2%96%B6+%F0%9F%9F%A2+Open+to+AI+%2F+ML+internships+%26+full-time+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+Building+intelligent+systems+that+actually+work;%E2%96%B6+RAG+Systems+%7C+LLMs+%7C+Agentic+AI+%7C+Deep+Learning;%E2%96%B6+Targeting+MS+in+AI+%2F+ML+%E2%80%94+%F0%9F%87%A9%F0%9F%87%AA;%E2%96%B6+%F0%9F%9F%A2+Open+to+AI+%2F+ML+internships+%26+full-time+roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,15 +44,12 @@ class SarimAhsan:
     name       = "Syed Sarim Ahsan"
     role       = ["AI / ML Engineer", "Data Scientist", "Backend Engineer"]
     university = "SSUET — Sir Syed University of Engineering & Technology"
-    gpa        = 3.73
-    location   = "Karachi, Pakistan 🇵🇰  →  Germany 🇩🇪  (MSc, incoming)"
     contact    = "sarim.ahsan101@gmail.com"
 
     focus = [
         "📐  Unified Adaptive RAG Framework  (targeting ACL / EMNLP)",
         "🤖  Agentic AI Systems & LLM Fine-tuning  (LoRA · QLoRA · DPO)",
         "📊  DSA grind — 170+ LeetCode problems solved",
-        "🌍  German language learning for MSc in AI/ML",
     ]
 
     stack = {
