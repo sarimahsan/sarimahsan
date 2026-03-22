@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+Building+intelligent+systems+that+actually+work;%E2%96%B6+RAG+Systems+%7C+LLMs+%7C+Agentic+AI+%7C+Deep+Learning;%E2%96%B6+Targeting+MS+in+AI+%2F+ML+%E2%80%94+%F0%9F%87%A9%F0%9F%87%AA;%E2%96%B6+%F0%9F%9F%A2+Open+to+AI+%2F+ML+internships+%26+full-time+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+Building+intelligent+systems+that+actually+work;%E2%96%B6+RAG+Systems+%7C+LLMs+%7C+Agentic+AI+%7C+Deep+Learning;%E2%96%B6+Fine-tuning+LLMs+%7C+LoRA+%C2%B7+QLoRA+%C2%B7+DPO+%C2%B7+GRPO;%E2%96%B6+%F0%9F%9F%A2+Open+to+AI+%2F+ML+internships+%26+full-time+roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,12 +44,15 @@ class SarimAhsan:
     name       = "Syed Sarim Ahsan"
     role       = ["AI / ML Engineer", "Data Scientist", "Backend Engineer"]
     university = "SSUET — Sir Syed University of Engineering & Technology"
+    gpa        = 3.73
+    location   = "Karachi, Pakistan 🇵🇰"
     contact    = "sarim.ahsan101@gmail.com"
 
     focus = [
         "📐  Unified Adaptive RAG Framework  (targeting ACL / EMNLP)",
         "🤖  Agentic AI Systems & LLM Fine-tuning  (LoRA · QLoRA · DPO)",
         "📊  DSA grind — 170+ LeetCode problems solved",
+        "🌐  Building production-grade AI systems end-to-end",
     ]
 
     stack = {
@@ -112,10 +115,10 @@ class SarimAhsan:
 
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
-| **[Gemini AI Chatbot](https://github.com/sarimahsan/gemini-chatbot)** | Production chatbot — streaming responses, context management & clean terminal UI. | `Gemini API` `React` `FastAPI` | ✅ Shipped |
-| **[CNN Image Classifier](https://github.com/sarimahsan/cnn-classifier)** | Custom CNN architectures + transfer learning benchmarks on image classification tasks. | `PyTorch` `TensorFlow` `OpenCV` | ✅ Shipped |
-| **[MERN + SQL Full Stack App](https://github.com/sarimahsan/mern-fullstack)** | End-to-end web app — Dockerised, deployed on Linux VPS with Nginx reverse proxy. | `React` `Node.js` `MySQL` `MongoDB` `Docker` | ✅ Shipped |
-| **[Food Delivery App](https://github.com/sarimahsan/food-delivery)** | Cross-platform mobile app with real-time order tracking & Firebase backend. | `Flutter` `Firebase` `Dart` | ✅ Shipped |
+| **[Gemini AI Chatbot](https://github.com/sarimahsan/gemini-chatbot)** | Production chatbot — streaming responses, context management & clean terminal UI. | `Gemini API` `React` `FastAPI` | ✅ Done |
+| **[CNN Image Classifier](https://github.com/sarimahsan/cnn-classifier)** | Custom CNN architectures + transfer learning benchmarks on image classification tasks. | `PyTorch` `TensorFlow` `OpenCV` | ✅ Done |
+| **[MERN + SQL Full Stack App](https://github.com/sarimahsan/mern-fullstack)** | End-to-end web app — Dockerised, deployed on Linux VPS with Nginx reverse proxy. | `React` `Node.js` `MySQL` `MongoDB` `Docker` | ✅ Done |
+| **[Food Delivery App](https://github.com/sarimahsan/food-delivery)** | Cross-platform mobile app with real-time order tracking & Firebase backend. | `Flutter` `Firebase` `Dart` | ✅ Done |
 
 </div>
 
