@@ -148,7 +148,7 @@ I care about systems that actually work in production, not just in notebooks.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarim-Ahsan&theme=dark&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b35&currStreakLabel=00d2ff&sideLabels=7aa8c4&dates=7aa8c4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarimahsan&theme=dark&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b35&currStreakLabel=00d2ff&sideLabels=7aa8c4&dates=7aa8c4)](https://git.io/streak-stats)
 
 </div>
 
