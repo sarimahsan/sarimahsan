@@ -140,10 +140,6 @@ I care about systems that actually work in production, not just in notebooks.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sarim-Ahsan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&icon_color=00d2ff&count_private=true"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarim-Ahsan&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8"/>
-
 </div>
 
 <div align="center">
