@@ -24,6 +24,9 @@ I'm an AI/ML Engineer who builds things end-to-end — from fine-tuned language 
 
 I care about systems that actually work in production, not just in notebooks.
 
+## 🌐 Portfolio
+
+[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://syedsarimahsan.netlify.app/)
 ```
 📍 Karachi, Pakistan       🎓 Computer Engineering — SSUET
 🤖 AI / ML Engineer        🟢 Open to internships & full-time roles
