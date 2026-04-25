@@ -20,7 +20,7 @@
 
 ## About
 
-I'm an AI/ML Engineer who builds things end-to-end — from fine-tuned language models and vector databases to multi-agent pipelines and Dockerized production backends. I specialize in RAG systems, LLM fine-tuning (LoRA / QLoRA / DPO / GRPO), and agentic AI, with real client delivery experience alongside research-level NLP work.
+I'm an AI/ML Engineer who builds things end-to-end — from fine-tuned language models and vector databases to multi-agent pipelines and Dockerized production backends. I specialize in RAG systems, LLM fine-tuning (LoRA / QLoRA), and agentic AI.
 
 I care about systems that actually work in production, not just in notebooks.
 
@@ -61,7 +61,6 @@ I care about systems that actually work in production, not just in notebooks.
 ![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat-square&logo=meta&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
-![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square&logo=openai&logoColor=white)
 
 <details>
 <summary><b>LLM Techniques I work with</b></summary>
@@ -70,8 +69,6 @@ I care about systems that actually work in production, not just in notebooks.
 | Technique | Purpose |
 |:---|:---|
 | **LoRA / QLoRA** | Parameter-efficient fine-tuning of large language models |
-| **DPO** | Aligning model outputs with human preference data |
-| **GRPO** | Reinforcement-based group preference optimization |
 | **RAG** | Retrieval-augmented generation for grounded, factual responses |
 | **Adaptive RAG** | Dynamic retrieval triggering with temporal awareness and self-evaluation |
 | **Agentic AI** | Tool-using, multi-step reasoning agents with LangGraph |
@@ -106,7 +103,6 @@ I care about systems that actually work in production, not just in notebooks.
 ## ☁️ &nbsp;DevOps · Cloud · Databases
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
