@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/syedsarimahsan](https://www.linkedin.com/in/syed-sarim-ahsan-544198247/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sarim-ahsan-544198247/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedsarimahsan.netlify.app/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/sarimahsan101)
 [![Medium](https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@sarim.ahsan101)
@@ -163,6 +163,8 @@ I care about systems that actually work in production, not just in notebooks.
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarimahsan&theme=dark&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b35&currStreakLabel=00d2ff&sideLabels=7aa8c4&dates=7aa8c4)](https://git.io/streak-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sarimahsan&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=10)
 
 </div>
 
