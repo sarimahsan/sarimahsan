@@ -64,9 +64,7 @@ Two live production deployments. Five fine-tuned models on HuggingFace. Two MCP 
 ![Transformers](https://img.shields.io/badge/Transformers-f0a500?style=flat-square&logo=huggingface&logoColor=black)
 ![PEFT](https://img.shields.io/badge/PEFT-f0a500?style=flat-square&logo=huggingface&logoColor=black)
 ![TRL](https://img.shields.io/badge/TRL-f0a500?style=flat-square&logo=huggingface&logoColor=black)
-![Accelerate](https://img.shields.io/badge/Accelerate-f0a500?style=flat-square&logo=huggingface&logoColor=black)
 ![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square&logo=python&logoColor=white)
 ![Tiktoken](https://img.shields.io/badge/Tiktoken-412991?style=flat-square&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -79,7 +77,6 @@ Two live production deployments. Five fine-tuned models on HuggingFace. Two MCP 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-0EA5E9?style=flat-square&logo=searchengin&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat-square&logo=meta&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -96,9 +93,6 @@ Two live production deployments. Five fine-tuned models on HuggingFace. Two MCP 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-EE4C2C?style=flat-square&logo=python&logoColor=white)
 ![pdfplumber](https://img.shields.io/badge/pdfplumber-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -121,10 +115,8 @@ Two live production deployments. Five fine-tuned models on HuggingFace. Two MCP 
 **Databases & Storage**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 
 <br/>
 
