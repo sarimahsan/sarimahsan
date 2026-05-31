@@ -181,18 +181,6 @@ Two live production deployments. Five fine-tuned models on HuggingFace. Two MCP 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarimahsan&theme=dark&hide_border=true&background=070707&stroke=f0a500&ring=f0a500&fire=ff6b35&currStreakLabel=f0a500&sideLabels=7a7672&dates=7a7672)](https://git.io/streak-stats)
-
-<br/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sarimahsan&theme=onestar&row=1&column=6&margin-w=8&no-bg=true&no-frame=true)
-
-</div>
-
 <br/>
 
 ---
