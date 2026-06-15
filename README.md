@@ -20,7 +20,7 @@
 
 Computer Engineering student at SSUET (GPA 3.5) and Software Engineer at a UK firm, working on production AI systems. I go low-level by instinct — reimplementing transformers from scratch, writing CUDA kernels, fine-tuning LLMs at the parameter level. Not to pad a portfolio, but because that depth is how I build things that actually work.
 
-Currently focused on LLM fine-tuning, agentic pipelines, and GPU-level inference optimization. Five models published on HuggingFace. Two live production deployments. Two MCP servers. One FYP research paper in progress.
+Currently focused on LLM fine-tuning, agentic pipelines, and GPU-level inference optimization. Five models published on HuggingFace. Two live production deployments. Two MCP servers.
 
 > *"The best model is the one you ship."*
 
