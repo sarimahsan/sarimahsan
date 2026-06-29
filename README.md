@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,50:1a1200,100:f0a500&height=160&section=header&text=Syed%20Sarim%20Ahsan&fontSize=44&fontColor=ede9e3&fontAlignY=42&desc=AI%20Engineer%20·%20LLM%20Fine-Tuning%20·%20Agentic%20Systems%20·%20Production%20Backends&descSize=13&descColor=7a7672&descAlignY=62&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,50:1a1200,100:f0a500&height=160&section=header&text=Syed%20Sarim%20Ahsan&fontSize=44&fontColor=ede9e3&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20LLM%20Fine-Tuning%20%C2%B7%20Agentic%20Systems%20%C2%B7%20GPU%20Inference%20%C2%B7%20Production%20Backends&descSize=13&descColor=7a7672&descAlignY=62&animation=fadeIn"/>
 </div>
 
 <br/>
@@ -20,13 +20,78 @@
 
 Computer Engineering student at SSUET (GPA 3.5) and Software Engineer at a UK firm, working on production AI systems. I go low-level by instinct — reimplementing transformers from scratch, writing CUDA kernels, fine-tuning LLMs at the parameter level. Not to pad a portfolio, but because that depth is how I build things that actually work.
 
-Currently focused on LLM fine-tuning, agentic pipelines, and GPU-level inference optimization. Five models published on HuggingFace. Two live production deployments. Two MCP servers.
+Currently focused on LLM fine-tuning, agentic pipelines, and GPU-level inference optimization. **5 models published on HuggingFace. 2 live production deployments. 2 MCP servers.**
 
 > *"The best model is the one you ship."*
 
 <br/>
 
 ---
+
+## 🔬 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [gpt2-inference-engine-scratch](https://github.com/sarimahsan/gpt2-inference-engine-scratch)
+Pure NumPy GPT-2 inference engine — no PyTorch in the forward pass. Every operation (attention, layer norm, GELU, sampling) handwritten. Weights loaded from HuggingFace.
+
+`NumPy` `Transformers` `Inference`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [cuda-kernel](https://github.com/sarimahsan/cuda-kernel)
+CUDA kernel implementations covering thread hierarchy, memory management, and parallel algorithm optimization — built in Google Colab for GPU programming fundamentals.
+
+`CUDA` `C++` `GPU` `Parallel Computing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Mini-Qwen_from_scratch](https://github.com/sarimahsan/Mini-Qwen_from_scratch)
+Compact Qwen-inspired autoregressive LM in PyTorch with a custom AdamW optimizer, HuggingFace dataset integration, and a full training loop from scratch.
+
+`PyTorch` `Transformers` `LLM` `HuggingFace`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [arxiv-lens](https://github.com/sarimahsan/arxiv-lens)
+AI research tool that summarizes ArXiv papers, builds citation knowledge graphs, and enables RAG-powered chat with any paper.
+
+`FastAPI` `React` `RAG` `HuggingFace` `Knowledge Graph`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [Meezan-GPT-CRAG](https://github.com/sarimahsan/Meezan-GPT-CRAG)
+Corrective RAG system for Meezan Bank — accurate, context-aware responses via layered retrieval, generation, and verification.
+
+`LangChain` `RAG` `FastAPI` `pgvector`
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 [chronicle](https://github.com/sarimahsan/chronicle)
+Chat with your repo's entire history. Builds a knowledge graph from commits, PRs, and issues so you can ask who, when, and why — not just what.
+
+`Node.js` `Knowledge Graph` `LLM` `Developer Tools`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
 
 **LLM & Fine-Tuning**
 
@@ -118,6 +183,24 @@ Currently focused on LLM fine-tuning, agentic pipelines, and GPU-level inference
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sarimahsan&show_icons=true&theme=dark&bg_color=070707&title_color=f0a500&icon_color=f0a500&text_color=ede9e3&border_color=1a1200&hide_border=false&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimahsan&layout=compact&theme=dark&bg_color=070707&title_color=f0a500&text_color=ede9e3&border_color=1a1200&hide_border=false&langs_count=6" />
+
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarimahsan&theme=dark&background=070707&ring=f0a500&fire=f0a500&currStreakLabel=f0a500&sideLabels=ede9e3&dates=7a7672&border=1a1200" />
+</div>
 
 <br/>
 
