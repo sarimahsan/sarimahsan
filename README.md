@@ -16,15 +16,15 @@
 
 <br/>
 
-AI Research Engineer and Computer Engineering undergraduate at SSUET, working as a Software Engineer at a UK-based firm. My research focuses on **LLM Optimization & Efficient Inference**, **Distributed ML Systems**, **Post-Training Alignment**, and **Mechanistic Interpretability**.
+AI Research Engineer and Computer Engineering undergraduate at SSUET, working as a Data Science Intern at 10Pearls and an Application Support Engineer at GIS. My research focuses on **LLM Optimization & Efficient Inference**, **GPU Kernel Acceleration**, **Post-Training Alignment**, and **Mechanistic Interpretability**.
 
-I study and implement intelligent systems from first principles — spanning custom CUDA/ROCm kernels, distributed training workflows, post-training alignment (GRPO, DPO), and empirical hidden-state probing.
+I study and implement intelligent systems from first principles — spanning custom OpenAI Triton and CUDA C++ kernels, GPU inference acceleration engines, post-training alignment (GRPO, DPO), and empirical hidden-state probing.
 
 <br/>
 
 <div align="center">
 
-`2,400+ HF Model Downloads` &nbsp;•&nbsp; `4+ Research Papers` &nbsp;•&nbsp; `5+ Systems & ML Projects` &nbsp;•&nbsp; `AMD ROCm Certified`
+`5,600+ Open-Source Downloads` &nbsp;•&nbsp; `4+ Research Papers` &nbsp;•&nbsp; `7+ Systems & ML Projects` &nbsp;•&nbsp; `PyPI Author (interplens)`
 
 </div>
 
@@ -34,10 +34,10 @@ I study and implement intelligent systems from first principles — spanning cus
 
 ### 🔬 Research & Engineering Focus
 
-- **LLM Systems & Inference**: KV-cache optimization, Speculative Decoding, Continuous Batching, vLLM acceleration.
-- **Kernel & GPU Engineering**: Custom CUDA C++ kernels, AMD ROCm/HIP pipelines, shared memory tiling, `cp.async` staging.
-- **Post-Training & Alignment**: Group Relative Policy Optimization (GRPO), Direct Preference Optimization (DPO), RLHF reward engineering.
-- **Empirical Interpretability & Probing**: Internal hidden-state linear probing, knowledge distillation, activation-normalization interaction dynamics.
+- **LLM Systems & Inference**: Paged attention, prefix caching, KV-cache continuity, depth-adaptive inference, speculative decoding, and vLLM acceleration.
+- **Kernel & GPU Engineering**: Custom OpenAI Triton and CUDA C++ kernels, NVIDIA Nsight Compute (`ncu`) profiling, shared memory tiling, online softmax, and CUDA Graphs.
+- **Post-Training & Alignment**: Group Relative Policy Optimization (GRPO), Direct Preference Optimization (DPO), RLHF reward engineering, and knowledge distillation.
+- **Empirical Interpretability & Probing**: Internal hidden-state linear probing, pre-generation hallucination detection, logit lens, and activation-normalization interaction dynamics.
 
 <br/>
 
@@ -47,10 +47,10 @@ I study and implement intelligent systems from first principles — spanning cus
 
 ```
 Languages     : Python, C++, C, CUDA C++, SQL, Bash
-ML & Systems  : PyTorch, CUDA, AMD ROCm / HIP, Hugging Face (TRL, Transformers, PEFT), vLLM
-Agentic AI    : LangGraph, LangChain, Tool Orchestration
-Backend & DB  : FastAPI, Node.js, PostgreSQL, Redis, MongoDB
-Infrastructure: Docker, Linux / Unix, Git, GitHub Actions, CI/CD
+ML & Kernels  : PyTorch, OpenAI Triton, CUDA, Hugging Face (TRL, Transformers, PEFT), vLLM, AMD ROCm
+Profiling     : NVIDIA Nsight Compute (NCU), PyTorch Profiler, CUDA Graphs
+Agentic AI    : LangGraph, LangChain, RAG / CRAG, FAISS
+Backend & DB  : FastAPI, Node.js, PostgreSQL, Redis, Docker, Linux, Git, CI/CD
 ```
 
 <br/>
@@ -59,10 +59,12 @@ Infrastructure: Docker, Linux / Unix, Git, GitHub Actions, CI/CD
 
 ### 📚 Selected Open-Source & Research Highlights
 
-- **[Nova-MoE](https://syedsarimahsan.netlify.app/?tab=engineering)**: Sparse Mixture-of-Experts architecture with top-$k$ load-balanced routing and auxiliary entropy loss.
-- **[FastTransformer](https://github.com/sarimahsan)**: GPU-optimized Transformer implementation featuring fused attention kernels, FlashAttention/SDPA, and `torch.compile` profiling.
+- **[miniflash-triton](https://github.com/sarimahsan/miniflash-triton)**: Paged, prefix-sharing LLM inference core in OpenAI Triton and PyTorch featuring fused prefill attention, zero-copy paged GQA decode, INT8 KV cache, and CUDA-graph replay (1.47× faster batch-1 decode, 2.2× batch-32 throughput, 8.4× lower TTFT on NVIDIA L4).
+- **[Kernix](https://github.com/sarimahsan/Kernix)**: Profiler-grounded GPU kernel optimization engine trained on 490K+ Nsight Compute (`ncu`) hardware executions across T4, L4, A100, and Blackwell, powering **[Kernix-14B](https://huggingface.co/sarimahsan101/Kernix-14B)** and **[Kernix-3B](https://huggingface.co/sarimahsan101/Kernix-3B)**.
+- **[FastTransformer](https://github.com/sarimahsan/transformer-cuda)** & **[CUDA ML Framework](https://github.com/sarimahsan/cuda-ml-from-scratch)**: Pure CUDA C++ deep learning primitives (2D tiled GEMM, online FlashSoftmax, Welford norm, fused 4-gate LSTM) and hardware-aligned Transformer co-design reaching 1.45× speedup over `torch.compile`.
+- **[InterpLens](https://pypi.org/project/interplens/)**: Open-source mechanistic interpretability toolkit (`pip install interplens`) for zero-copy residual stream extraction, logit lens projection, and causal patching ([GitHub](https://github.com/sarimahsan/interplens)).
+- **[KV-Cache Continuity in Depth-Adaptive Transformers](https://doi.org/10.13140/RG.2.2.10326.00329)**: Preprint introducing a teacher-forced disentanglement protocol separating attention memory poisoning from readout mismatch via Native Projection and affine repair ([Code](https://github.com/sarimahsan/kv-cache-continuity)).
 - **[Qwen2.5-3B GRPO Alignment](https://huggingface.co/sarimahsan101/qwen2.5-3b-grpo-gsm8k)**: LoRA-finetuned reasoning model trained with Group Relative Policy Optimization on GSM8K with verifiable XML reasoning traces.
-- **[Cross-VM HPC Intrusion Detection](https://doi.org/10.5281/zenodo.21641253)**: Empirical study and benchmark dataset analyzing Hardware Performance Counter (HPC) domain shift under cross-virtual-machine deployments.
 
 <br/>
 
