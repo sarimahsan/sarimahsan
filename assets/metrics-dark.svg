@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-label="6,100+ open-source downloads, 2 published papers, 8+ systems and ML projects, PyPI author">
+<title>Highlights</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.l{animation:in .6s ease both}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.l{animation:none}}
+</style>
+<rect x=".5" y=".5" width="899" height="99" rx="12" fill="#09090b" stroke="#27272a"/>
+<path d="M225.5 24V76M450.5 24V76M675.5 24V76" stroke="#27272a"/>
+<g class="l" style="animation-delay:.1s"><text x="112.5" y="50" text-anchor="middle" font-size="27" font-weight="700" fill="#fafafa">6,100+</text><text x="112.5" y="75" text-anchor="middle" font-size="12" fill="#a1a1aa">Open-source downloads</text></g>
+<g class="l" style="animation-delay:.3s"><text x="337.5" y="50" text-anchor="middle" font-size="27" font-weight="700" fill="#fafafa">2</text><text x="337.5" y="75" text-anchor="middle" font-size="12" fill="#a1a1aa">Published papers</text></g>
+<g class="l" style="animation-delay:.5s"><text x="562.5" y="50" text-anchor="middle" font-size="27" font-weight="700" fill="#fafafa">8+</text><text x="562.5" y="75" text-anchor="middle" font-size="12" fill="#a1a1aa">Systems &amp; ML projects</text></g>
+<g class="l" style="animation-delay:.7s"><text x="787.5" y="50" text-anchor="middle" font-size="27" font-weight="700" fill="#fafafa">PyPI</text><text x="787.5" y="75" text-anchor="middle" font-size="12" fill="#a1a1aa">Author · interplens</text></g>
+</svg>

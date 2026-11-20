@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="324" viewBox="0 0 900 324" role="img" aria-label="miniflash-triton on Llama-3.2-1B (NVIDIA L4): 1.47x faster batch-1 decode vs HF Static + Graph, 2.23x batch-32 throughput vs HF Dynamic, 8.40x lower TTFT vs No-Prefix Engine">
+<title>miniflash-triton benchmark on Llama-3.2-1B (NVIDIA L4)</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.bar{transform-box:fill-box;transform-origin:0 50%;animation:grow .9s cubic-bezier(.2,.7,.2,1) both}
+.l{animation:in .5s ease both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.bar,.l{animation:none}}
+</style>
+<rect x=".5" y=".5" width="899" height="323" rx="12" fill="#09090b" stroke="#27272a"/>
+<text x="32" y="44" font-size="16" font-weight="600" fill="#fafafa">miniflash-triton</text>
+<text x="32" y="64" font-size="12" fill="#a1a1aa">Paged, prefix-sharing LLM inference core · Llama-3.2-1B · NVIDIA L4</text>
+<rect x="650" y="34" width="10" height="10" rx="2" fill="#3f3f46"/>
+<text x="668" y="43" font-size="12" fill="#a1a1aa">Baseline</text>
+<rect x="740" y="34" width="10" height="10" rx="2" fill="#34d399"/>
+<text x="758" y="43" font-size="12" fill="#a1a1aa">miniflash-triton</text>
+<path d="M32 84.5H868" stroke="#27272a"/>
+<text x="32" y="124" font-size="13" font-weight="600" fill="#fafafa">Decode throughput</text>
+<text x="32" y="142" font-size="11" fill="#71717a">batch 1 · vs HF Static + Graph</text>
+<rect class="bar" x="250" y="112" width="230" height="12" rx="3" fill="#3f3f46" style="animation-delay:0.2s"/>
+<text class="l" x="490" y="122" font-size="12" fill="#71717a" style="animation-delay:0.8999999999999999s">1.0×</text>
+<rect class="bar" x="250" y="132" width="338" height="12" rx="3" fill="#34d399" style="animation-delay:0.45s"/>
+<text class="l" x="598" y="142" font-size="13" font-weight="700" fill="#34d399" style="animation-delay:1.15s">1.47×</text>
+<text x="32" y="194" font-size="13" font-weight="600" fill="#fafafa">Aggregate throughput</text>
+<text x="32" y="212" font-size="11" fill="#71717a">batch 32 · vs HF Dynamic</text>
+<rect class="bar" x="250" y="182" width="230" height="12" rx="3" fill="#3f3f46" style="animation-delay:0.45s"/>
+<text class="l" x="490" y="192" font-size="12" fill="#71717a" style="animation-delay:1.15s">1.0×</text>
+<rect class="bar" x="250" y="202" width="513" height="12" rx="3" fill="#34d399" style="animation-delay:0.7s"/>
+<text class="l" x="773" y="212" font-size="13" font-weight="700" fill="#34d399" style="animation-delay:1.4s">2.23×</text>
+<text x="32" y="264" font-size="13" font-weight="600" fill="#fafafa">Time to first token</text>
+<text x="32" y="282" font-size="11" fill="#71717a">90% prefix · vs No-Prefix Engine</text>
+<rect class="bar" x="250" y="252" width="230" height="12" rx="3" fill="#3f3f46" style="animation-delay:0.7s"/>
+<text class="l" x="490" y="262" font-size="12" fill="#71717a" style="animation-delay:1.4s">1.0×</text>
+<rect class="bar" x="250" y="272" width="27" height="12" rx="3" fill="#34d399" style="animation-delay:0.95s"/>
+<text class="l" x="287" y="282" font-size="13" font-weight="700" fill="#34d399" style="animation-delay:1.65s">8.40× lower</text>
+<text x="32" y="307" font-size="11" fill="#71717a">Relative to HF Static+Graph / HF Dynamic / No-Prefix baselines (1.0×), Llama-3.2-1B on NVIDIA L4.</text>
+</svg>

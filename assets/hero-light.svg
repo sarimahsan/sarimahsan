@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="276" viewBox="0 0 900 276" role="img" aria-label="Syed Sarim Ahsan, AI Research Engineer">
+<title>Syed Sarim Ahsan - AI Research Engineer</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.l{animation:in .5s ease both}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.l,.cur{animation:none}}
+</style>
+<rect x=".5" y=".5" width="899" height="275" rx="12" fill="#ffffff" stroke="#e4e4e7"/>
+<path d="M.5 40.5H899.5" stroke="#e4e4e7"/>
+<circle cx="24" cy="20.5" r="5.5" fill="#d4d4d8"/>
+<circle cx="42" cy="20.5" r="5.5" fill="#d4d4d8"/>
+<circle cx="60" cy="20.5" r="5.5" fill="#d4d4d8"/>
+<text x="450" y="24.5" text-anchor="middle" font-size="12" fill="#71717a">sarim - research</text>
+
+<g class="l" style="animation-delay:.3s"><text x="28" y="82" font-size="14" fill="#059669">$</text><text x="46" y="82" font-size="14" fill="#52525b">whoami</text></g>
+<g class="l" style="animation-delay:.8s"><text x="28" y="122" font-size="30" font-weight="700" fill="#18181b">Syed Sarim Ahsan</text></g>
+<g class="l" style="animation-delay:1.3s"><text x="28" y="150" font-size="14" fill="#3f3f46">AI Research Engineer · LLM Systems · Kernel Optimization</text></g>
+
+<g class="l" style="animation-delay:1.9s"><text x="28" y="196" font-size="14" fill="#059669">$</text><text x="46" y="196" font-size="14" fill="#52525b">now</text></g>
+<g class="l" style="animation-delay:2.4s"><text x="28" y="224" font-size="13" fill="#3f3f46">Application Support Engineer @ GIS · Computer Engineering, Sir Syed University, Karachi</text></g>
+
+<g class="l" style="animation-delay:2.9s"><text x="28" y="256" font-size="14" fill="#059669">$</text><rect class="cur" x="46" y="243" width="9" height="16" fill="#059669" style="animation-delay:2.9s"/></g>
+</svg>
